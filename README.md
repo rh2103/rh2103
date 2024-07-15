@@ -1,7 +1,7 @@
 
 # Hello!
 
-I'am rh2103, a dumb bored programmer from Indonesia.
+I'am Rhyza, a dumb bored programmer from Indonesia.
 3 Years of dumb Python experiences.
 
 
